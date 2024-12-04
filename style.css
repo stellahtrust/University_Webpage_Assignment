@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #007bff; /* Bootstrap primary color */
+}
+
+footer {
+    background-color: #f8f9fa; /* Light background for footer */
+    color: #6c757d; 
+}
